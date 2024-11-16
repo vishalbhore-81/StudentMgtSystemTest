@@ -1,0 +1,5 @@
+interface ScholarshipEligibility{
+    boolean IsEligibleForScholarship();
+
+
+}
